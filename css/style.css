@@ -14,3 +14,12 @@ body
     background: #d6d6d6;
     border-radius: 15px;
 }
+h2{
+    text-align: center;
+    color: #808080;
+    padding: 20px;
+}
+label{
+    color: #008000;
+    font-size: 17px;
+}
